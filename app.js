@@ -44,3 +44,14 @@ let totalAge = inventors.reduce((acc, curr) => {
 console.log(totalAge);
 
 // 5. Sort the inventors by years lived.
+
+
+// 6. Create a list of boulevards in Parus that contain 'de' anywhere in the name
+// https://en.wikipedia.org/wiki/Category:Boulevards_in_Paris
+
+
+// 7. sort excercise
+// Sort people aphabetically by last name.
+
+// Reduce excercise
+// 8. Sum up th instance of each of these.
